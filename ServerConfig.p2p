@@ -1,0 +1,5 @@
+## Server configuration file
+
+ListenerIP = 127.0.0.1
+ListenerPort = 45000
+DebugMode = true
